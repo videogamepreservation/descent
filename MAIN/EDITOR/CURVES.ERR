@@ -1,0 +1,4 @@
+d:\dev\d1\lib\vecmat.h(237): Warning! W123: '//' style comment continues on next line
+d:\dev\d1\lib\vecmat.h(237): Warning! W123: '//' style comment continues on next line
+d:\dev\d1\lib\vecmat.h(237): Warning! W123: '//' style comment continues on next line
+curves.c(401): Error! E1031: Name 'segnum' not found in struct/union segment

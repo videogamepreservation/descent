@@ -1,0 +1,25 @@
+d:\dev\d1\lib\vecmat.h(237): Warning! W123: '//' style comment continues on next line
+d:\dev\d1\lib\vecmat.h(237): Warning! W123: '//' style comment continues on next line
+d:\dev\d1\lib\vecmat.h(237): Warning! W123: '//' style comment continues on next line
+piggy.h(92): Warning! W123: '//' style comment continues on next line
+tempgame.c(481): Error! E1010: Type mismatch
+tempgame.c(483): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+tempgame.c(554): Error! E1011: Symbol 'SCREEN_VFX' has not been declared
+tempgame.c(554): Error! E1054: Expression must be constant
+tempgame.c(594): Error! E1011: Symbol 'SCREEN_VICTOR' has not been declared
+tempgame.c(594): Error! E1054: Expression must be constant
+tempgame.c(594): Error! E1039: Duplicate case value '0' found
+tempgame.c(847): Error! E1011: Symbol 'SCREEN_VFX' has not been declared
+tempgame.c(852): Error! E1011: Symbol 'SCREEN_VICTOR' has not been declared
+tempgame.c(865): Error! E1011: Symbol 'GAMESCREEN_MAX_W' has not been declared
+tempgame.c(865): Error! E1011: Symbol 'GAMESCREEN_MAX_H' has not been declared
+tempgame.c(872): Error! E1011: Symbol 'GRMODE_GAME' has not been declared
+tempgame.c(878): Error! E1033: Expression for '->' must be 'pointer to struct or union'
+tempgame.c(888): Error! E1054: Expression must be constant
+tempgame.c(889): Error! E1011: Symbol 'GRMODE_VFX' has not been declared
+tempgame.c(917): Error! E1054: Expression must be constant
+tempgame.c(917): Error! E1039: Duplicate case value '0' found
+tempgame.c(918): Error! E1011: Symbol 'GRMODE_VICTOR' has not been declared
+tempgame.c(949): Error! E1011: Symbol 'GRMODE_EDITOR' has not been declared
+tempgame.c(1213): Error! E1011: Symbol 'GRMODE_VFX' has not been declared
+tempgame.c(1561): Error! E1147: Too many errors: compilation aborted
