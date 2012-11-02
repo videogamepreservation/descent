@@ -1,0 +1,8 @@
+d:\dev\d1\lib\vecmat.h(237): Warning! W123: '//' style comment continues on next line
+d:\dev\d1\lib\vecmat.h(237): Warning! W123: '//' style comment continues on next line
+d:\dev\d1\lib\vecmat.h(237): Warning! W123: '//' style comment continues on next line
+piggy.h(92): Warning! W123: '//' style comment continues on next line
+digi.c(434): Warning! W106: Constant out of range - truncated
+digi.c(435): Warning! W106: Constant out of range - truncated
+digi.c(436): Warning! W106: Constant out of range - truncated
+digi.c(459): Warning! W106: Constant out of range - truncated

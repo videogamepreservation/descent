@@ -1,0 +1,62 @@
+Microsoft (R) Macro Assembler Version 5.10                  1/18/98 11:03:57
+                                                             Page     1-1
+
+
+ =					if	oldpos LT len
+psmacros.inc(207): error A2013: Must be declared during Pass 1: OLDPOS
+
+Microsoft (R) Macro Assembler Version 5.10                  1/18/98 11:03:57
+                                                             Symbols-1
+
+
+Macros:
+
+		N a m e			Lines
+
+@ARGCOUNT  . . . . . . . . . . .  	   3
+@ARGREV  . . . . . . . . . . . .  	   3
+@HIGHBIT . . . . . . . . . . . .  	   8
+@LOWBIT  . . . . . . . . . . . .  	  10
+ABS_EAX  . . . . . . . . . . . .  	   3
+BREAK_IF . . . . . . . . . . . .  	   6
+DBSTR  . . . . . . . . . . . . .  	  12
+DEBUG  . . . . . . . . . . . . .  	   7
+DEBUG_AT . . . . . . . . . . . .  	   7
+DEBUG_BRK  . . . . . . . . . . .  	   4
+EXTB . . . . . . . . . . . . . .  	   1
+EXTD . . . . . . . . . . . . . .  	   1
+EXTDEF . . . . . . . . . . . . .  	   2
+EXTGEN . . . . . . . . . . . . .  	   3
+EXTN . . . . . . . . . . . . . .  	   1
+EXTW . . . . . . . . . . . . . .  	   1
+IMULC  . . . . . . . . . . . . .  	  26
+MPRINTF  . . . . . . . . . . . .  	  16
+MPRINTF_AT . . . . . . . . . . .  	  16
+POPM . . . . . . . . . . . . . .  	   2
+PUSHLONG . . . . . . . . . . . .  	  10
+PUSHM  . . . . . . . . . . . . .  	   2
+PUSHML . . . . . . . . . . . . .  	   2
+
+Symbols:            
+
+                N a m e         	Type	 Value	 Attr
+
+B  . . . . . . . . . . . . . . .  	TEXT  byte ptr		
+
+TXT  . . . . . . . . . . . . . .  	TEXT  !<		
+
+W  . . . . . . . . . . . . . . .  	TEXT  word ptr		
+
+@CPU . . . . . . . . . . . . . .  	TEXT  0101h		
+@FILENAME  . . . . . . . . . . .  	TEXT  psmacros		
+@VERSION . . . . . . . . . . . .  	TEXT  510		
+
+
+      0 Source  Lines
+      0 Total   Lines
+     30 Symbols
+
+  46852 + 425559 Bytes symbol space free
+
+      0 Warning Errors
+      1 Severe  Errors
